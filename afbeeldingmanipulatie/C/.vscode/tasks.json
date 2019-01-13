@@ -1,0 +1,29 @@
+{
+    "version": "2.0.0",
+    "tasks": [
+        {
+            "label": "build",
+            "type": "shell",
+            "command": "gcc",
+            "args": [
+                "-g",
+                "-Wall",
+                "-D__USE_MINGW_ANSI_STDIO=1",
+                "image.c",
+                "main.c",
+                "matrix.c",
+                "../leaker/leaker.c",
+                "-o",
+                "afbeeldingmanipulatie.exe",
+                "-lm"
+            ],
+            "group": {
+                "kind": "build",
+                "isDefault": true
+            },
+            "problemMatcher": [
+                "$gcc"
+            ]
+        }
+    ]
+}
