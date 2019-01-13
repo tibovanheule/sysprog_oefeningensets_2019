@@ -1,0 +1,28 @@
+{
+    "version": "2.0.0",
+    "tasks": [
+        {
+            "label": "build",
+            "type": "shell",
+            "command": "gcc",
+            "args": [
+                "-g",
+                "-Wall",
+                "-D__USE_MINGW_ANSI_STDIO=1",
+                "hash_table.c",
+                "main.c",
+                "message_indexer.c",
+                "../leaker/leaker.c",
+                "-o",
+                "hashtable.exe"
+            ],
+            "group": {
+                "kind": "build",
+                "isDefault": true
+            },
+            "problemMatcher": [
+                "$gcc"
+            ]
+        }
+    ]
+}
