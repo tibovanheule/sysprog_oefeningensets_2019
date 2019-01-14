@@ -1,0 +1,30 @@
+{
+    "version": "2.0.0",
+    "tasks": [
+        {
+            "label": "build",
+            "type": "shell",
+            "command": "g++",
+            "args": [
+                "-g",
+                "-Wall",
+                "-D__USE_MINGW_ANSI_STDIO=1",
+                "HashTagIndexer.cpp",
+                "LinkedListElement.cpp",
+                "IndexElement.cpp",
+                "Main.cpp",
+                "Tweet.cpp",
+                "../memleak/debug_new.cpp",
+                "-o",
+                "AssociatieveArray.exe"
+            ],
+            "group": {
+                "kind": "build",
+                "isDefault": true
+            },
+            "problemMatcher": [
+                "$gcc"
+            ]
+        }
+    ]
+}

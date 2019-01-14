@@ -1,0 +1,98 @@
+99;Indy de Jager;1407268554;The quick, brown fox jumps over a lazy dog.;#Pointers
+100;Jinthe Simons;1413400344;DJs flock by when MTV ax quiz prog.;#Software,#Ugent,#Lorem,#Pointers,#Classes
+101;Jake Franken;1411144855;Junk MTV quiz graced by fox whelps.;#Coding
+102;Victoria Vink;1403313929;Bawds jog, flick quartz, vex nymphs.;#SOI,#Array,#Pointers
+103;Nienke Kersten;1407069734;Waltz, bad nymph, for quick jigs vex!;#C++,#Lorem,#SOI,#Operator
+104;Isabel Hartman;1411117862;Fox nymphs grab quick-jived waltz.;#Objects,#Destructor
+105;Liv Pronk;1406295219;Brick quiz whangs jumpy veldt fox.;#Ipsum,#Lorem,#Development,#LinkedList
+106;Kaylee de Rooij;1411625507;Bright vixens jump dozy fowl quack.;#Constructor
+107;Jente Otten;1403808531;Quick wafting zephyrs vex bold Jim.;#SOI
+108;Bryan van Eck;1405810436;Quick zephyrs blow, vexing daft Jim.;#Objects
+109;Daan Bosch;1409069155;Sex-charged fop blew my junk TV quiz.;#Array,#Pointers,#C++
+110;Joy Kuipers;1402952892;How quickly daft jumping zebras vex.;#Pointers,#Classes,#P4
+111;Marit Verhagen;1412588781;Two driven jocks help fax my big quiz.;#Lorem,#Ipsum,#C++,#Software,#P4
+112;Florian Rietveld;1412625940;Quick, Baz, get my woven flax jodhpurs! Now fax quiz Jack! my brave ghost pled.;#Constructor,#Lorem
+113;Jill van der Horst;1412345966;Five quacking zephyrs jolt my wax bed.;#Array,#Overloading
+114;Senn Aarts;1405042186;Flummoxed by job, kvetching W. zaps Iraq.;#Array,#Development,#LinkedList
+115;Julia Jonker;1406466320;Cozy sphinx waves quart jug of bad milk.;#VisualStudio,#Overloading
+116;Abel Hoek;1412569507;A very bad quack might jinx zippy fowls.;#Objects,#Operator
+117;Elise Jager;1407749078;Few quips galvanized the mock jury box.;#Coding,#Ipsum,#Overloading
+118;Isra van der Ploeg;1409130961;Quick brown dogs jump over the lazy fox.;#Array,#Development,#Software
+119;Livia den Hartog;1413055552;The jay, pig, fox, zebra, and my wolves quack!;#Development
+120;Quinten Lammers;1404479199;Blowzy red vixens fight for a quick jump.;#Destructor,#VisualStudio,#Pointers,#Lorem
+121;Mia Versteeg;1407784575;Joaquin Phoenix was gazed by MTV for luck.;#Operator
+122;Justin Smeets;1414033854;A wizard’s job is to vex chumps quickly in fog.;#Lorem,#SOI
+123;Finn Bosman;1407637074;Watch Jeopardy! , Alex Trebeks fun TV quiz game.;#Array
+124;Demi Baas;1402817212;Woven silk pyjamas exchanged for blue quartz.;#Programming,#C++,#Overloading
+125;Lauren de Leeuw;1411653808;Brawny gods just flocked up to quiz and vex him.;#Programming,#Overloading,#VisualStudio,#Array,#Pointers
+126;Leah van Beek;1408033416;Adjusting quiver and bow, Zompyc[1] killed the fox.;#Ipsum,#Classes,#P4,#Lorem
+127;Chris de Vos;1407185115;My faxed joke won a pager in the cable TV quiz show.;#C++,#Objects,#SOI,#Constructor
+128;Kick Zwart;1412273960;Amazingly few discotheques provide jukeboxes.;#Software
+129;Josephine van den Heuvel;1403653886;My girl wove six dozen plaid jackets before she quit.;#Programming
+130;Feline Brouwer;1404005336;Six big devils from Japan quickly forgot how to waltz.;#Destructor,#Lorem,#Objects
+131;Angelina Kok;1405540873;Big July earthquakes confound zany experimental vow.;#Development
+132;Kyano Simons;1412500248;Foxy parsons quiz and cajole the lovably dim wiki-girl.;#C++
+133;Amelia Dijkstra;1406334375;Have a pick: twenty six letters - no forcing a jumbled quiz!;#Operator,#Classes,#Array,#Destructor,#Coding
+134;Livia Versteeg;1413331112;Crazy Fredericka bought many very exquisite opal jewels.;#Coding,#Operator
+135;Lorenzo Vonk;1403830916;Sixty zippers were quickly picked from the woven jute bag.;#C++,#Array
+136;Nova Timmermans;1403885001;A quick movement of the enemy will jeopardize six gunboats.;#Overloading,#Classes,#Constructor
+137;Britt de Boer;1404871084;All questions asked by five watch experts amazed the judge.;#Overloading
+138;James Faber;1405888127;Jack quietly moved up front and seized the big ball of wax.;#Pointers
+139;Kyan Rutten;1405909880;The quick, brown fox jumps over a lazy dog.;#Coding,#Array,#Ipsum
+140;Angelina Kok;1401938520;DJs flock by when MTV ax quiz prog.;#Objects,#Development,#Ugent,#Software
+141;Niels Smit;1408239713;Junk MTV quiz graced by fox whelps.;#C++
+142;Jasmijn Boersma;1409098262;Bawds jog, flick quartz, vex nymphs.;#Destructor,#Objects,#VisualStudio,#Array
+143;Jesper Jager;1406537080;Waltz, bad nymph, for quick jigs vex!;#Programming
+144;Ibrahim de Groot;1410087032;Fox nymphs grab quick-jived waltz.;#Overloading,#Array
+145;Mette Muller;1404680696;Brick quiz whangs jumpy veldt fox.;#Software,#Array
+146;Janne Dekkers;1413597326;Bright vixens jump dozy fowl quack.;#Ugent,#SOI,#VisualStudio
+147;Benjamin Tromp;1406828180;Quick wafting zephyrs vex bold Jim.;#Operator,#Coding,#Ipsum
+148;Ilse van de Ven;1403771754;Quick zephyrs blow, vexing daft Jim.;#VisualStudio,#Array
+149;Loek Veenstra;1405901106;Sex-charged fop blew my junk TV quiz.;#Pointers,#SOI
+150;Mason Kuijpers;1409869547;How quickly daft jumping zebras vex.;#Development,#LinkedList
+151;Niels van der Heide;1403134434;Two driven jocks help fax my big quiz.;#Objects,#Overloading,#VisualStudio
+152;Naud Bijl;1406570331;Quick, Baz, get my woven flax jodhpurs! Now fax quiz Jack! my brave ghost pled. ;#Ipsum,#Pointers,#Software
+153;Jasmijn Hermans;1411482785;Five quacking zephyrs jolt my wax bed.;#Overloading,#Pointers,#SOI,#Classes
+154;Jim Kuijpers;1406565607;Flummoxed by job, kvetching W. zaps Iraq.;#Lorem,#Ugent,#Overloading,#Destructor
+155;Elise van der Werf;1405231715;Cozy sphinx waves quart jug of bad milk.;#Ugent
+156;Mark de Jonge;1412040099;A very bad quack might jinx zippy fowls.;#Operator,#Development,#Destructor,#Overloading
+157;Joris Koopman;1412628793;Few quips galvanized the mock jury box.;#C++,#SOI
+158;Luuk Goossens;1403536431;Quick brown dogs jump over the lazy fox.;#P4,#Ipsum,#SOI,#Objects
+159;Senna Hoekstra;1412565798;The jay, pig, fox, zebra, and my wolves quack!;#Pointers,#Operator,#Programming,#Overloading
+160;Ivy Kramer;1403592294;Blowzy red vixens fight for a quick jump.;#Classes
+161;Leah Vink;1403281895;Joaquin Phoenix was gazed by MTV for luck.;#Software,#Programming,#Classes
+162;Ilse Bakker;1411452562;A wizard’s job is to vex chumps quickly in fog. Watch Jeopardy!, Alex Trebeks fun TV quiz game. ;#C++
+163;Mika de Ruiter;1413520616;Woven silk pyjamas exchanged for blue quartz.;#Operator,#Software,#Lorem,#Coding,#Constructor
+164;Angelina Muller;1410961624;Brawny gods just flocked up to quiz and vex him.;#Overloading,#Operator,#Classes
+165;Daphne Aarts;1405180350;Adjusting quiver and bow, Zompyc[1] killed the fox.;#Lorem,#Coding,#Destructor
+166;Sebastiaan de Bruijn;1414271489;My faxed joke won a pager in the cable TV quiz show.;#C++,#Constructor,#Objects
+167;Kyan van Rooijen;1403770970;Amazingly few discotheques provide jukeboxes.;#Ugent,#Coding
+168;Guus van Rooijen;1404455671;My girl wove six dozen plaid jackets before she quit.;#Pointers,#Development
+169;Robin Bouman;1410014580;Six big devils from Japan quickly forgot how to waltz.;#Development,#Programming,#VisualStudio,#Lorem
+170;Zara Wiersma;1406003761;Big July earthquakes confound zany experimental vow.;#Lorem,#Coding,#Software,#Operator
+171;Femke Visscher;1409902799;Foxy parsons quiz and cajole the lovably dim wiki-girl.;#Array
+172;Mohamed Meijer;1406736460;Have a pick: twenty six letters - no forcing a jumbled quiz!;#Ipsum,#Operator
+173;Hailey Roelofs;1411297051;Crazy Fredericka bought many very exquisite opal jewels.;#Array,#Ipsum,#P4
+174;Juul Schouten;1410035870;Sixty zippers were quickly picked from the woven jute bag.;#Operator,#Constructor
+175;Elize Peeters;1403638700;A quick movement of the enemy will jeopardize six gunboats.;#Operator,#Pointers,#Overloading
+176;Muhammed Hoogendoorn;1413153379;All questions asked by five watch experts amazed the judge.;#Constructor
+177;Naud Kuiper;1412836990;Jack quietly moved up front and seized the big ball of wax. The quick, brown fox jumps over a lazy dog.;#Ipsum,#Development,#SOI,#Array
+178;Jacob Kuijpers;1404642500;DJs flock by when MTV ax quiz prog. Junk MTV quiz graced by fox whelps.;#Ipsum,#Array
+179;Lukas Koster;1405168444;Bawds jog, flick quartz, vex nymphs. Waltz, bad nymph, for quick jigs vex!;#Constructor,#Ugent,#Classes,#Development
+180;Angelina Snijders;1412240639;Fox nymphs grab quick-jived waltz. Brick quiz whangs jumpy veldt fox.;#P4,#Destructor,#Pointers,#Overloading,#Lorem
+181;Jente van der Linden;1410597904;Bright vixens jump dozy fowl quack. Quick wafting zephyrs vex bold Jim.;#Constructor
+182;Bente Martens;1408324119;Quick zephyrs blow, vexing daft Jim. Sex-charged fop blew my junk TV quiz.;#Constructor,#Pointers,#Ipsum,#VisualStudio,#Objects
+183;Kyan van Leeuwen;1413705479;How quickly daft jumping zebras vex. Two driven jocks help fax my big quiz.;#Pointers
+184;Thijs Boer;1404120606;Quick, Baz, get my woven flax jodhpurs! Now fax quiz Jack! my brave ghost pled.;#Programming,#Ugent,#Development,#Pointers
+185;Joep Visscher;1402412285;Five quacking zephyrs jolt my wax bed. Flummoxed by job, kvetching W. zaps Iraq.;#Coding,#Destructor,#Constructor,#Operator
+186;Vince Hoogendoorn;1402575298;Cozy sphinx waves quart jug of bad milk. A very bad quack might jinx zippy fowls. Few quips galvanized the mock jury box.;#Array,#Lorem,#Development,#P4,#Programming
+187;Mark Wiersma;1411787030;Quick brown dogs jump over the lazy fox. The jay, pig, fox, zebra, and my wolves quack!;#Ugent,#Constructor,#Classes,#Programming
+188;Chloe van der Plas;1403322893;Blowzy red vixens fight for a quick jump. Joaquin Phoenix was gazed by MTV for luck.;#Overloading,#Array,#Ipsum
+189;Leah van Leeuwen;1408382063;A wizard’s job is to vex chumps quickly in fog. Watch Jeopardy! , Alex Trebeks fun TV quiz game.;#SOI,#Array,#Pointers
+190;Chris van de Ven;1410791807;Woven silk pyjamas exchanged for blue quartz. Brawny gods just flocked up to quiz and vex him.;#Operator,#VisualStudio,#Ipsum
+191;Lena van Dongen;1413230843;Adjusting quiver and bow, Zompyc killed the fox. My faxed joke won a pager in the cable TV quiz show.;#VisualStudio,#Programming,#Array
+192;Emily Verhoeven;1402191679;Amazingly few discotheques provide jukeboxes. My girl wove six dozen plaid jackets before she quit.;#Classes
+193;Kai Jonker;1405615752;Six big devils from Japan quickly forgot how to waltz. Big July earthquakes confound zany experimental vow.;#Overloading,#Operator,#Objects,#Software
+194;Jolie van den Bosch;1406150735;Foxy parsons quiz and cajole the lovably dim wiki-girl. Have a pick: twenty six letters - no forcing a jumbled quiz! Crazy Fredericka bought many very exquisite opal jewels.;#Array,#Destructor
+195;Meike Vos;1414117167;Sixty zippers were quickly picked from the woven jute bag. A quick movement of the enemy will jeopardize six gunboats.;#Coding
+196;Liv van Berkel;1407724566;Jack quietly moved up front and seized the big ball of wax. The quick, brown fox jumps over a lazy dog. DJs;#Ipsum
