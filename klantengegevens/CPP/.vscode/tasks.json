@@ -1,0 +1,35 @@
+{
+    "version": "2.0.0",
+    "tasks": [
+        {
+            "label": "build",
+            "type": "shell",
+            "command": "g++",
+            "args": [
+                "-g",
+                "-Wall",
+                "-D__USE_MINGW_ANSI_STDIO=1",
+                "BinarySearchTree.cpp",
+                "BinarySearchTreeSTL.cpp",
+                "BinarySearchTreeTemplate.cpp",
+                "Computer.cpp",
+                "Food.cpp",
+                "Fruit.cpp",
+                "main.cpp",
+                "Product.cpp",
+                "Timestamp.cpp",
+                "Vegetable.cpp",
+                "../memleak/debug_new.cpp",
+                "-o",
+                "Klantengegevens.exe"
+            ],
+            "group": {
+                "kind": "build",
+                "isDefault": true
+            },
+            "problemMatcher": [
+                "$gcc"
+            ]
+        }
+    ]
+}
